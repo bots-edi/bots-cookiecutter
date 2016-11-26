@@ -1,0 +1,8 @@
+{
+    "instance_name": "bots",
+    "author_name": "Your Name",
+    "author_email": "your-email-address",
+    "license": "GPL3",
+    "package_name": "bots_<name>",
+    "package_version": "0.1.dev0",
+}
